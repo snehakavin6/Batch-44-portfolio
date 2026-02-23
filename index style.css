@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF=8">
+    <meta name="viewpoint" content="width=device=width,initial-scake=1.0">
+    <title>Green gem resort</title>
+    <link rel="stylesheet" href="style.css"
+    </head>
+    <body>
+        <header>
+        <h1>Green gem resort</h1>
+        <h3><u> Registration form</u></h3>
+        </header>
+        <br>
+        <main>
+            <form>
+                <label>*Firstname:</label>
+                <input type="text">required
+
+                <label>*password:</label>
+                <input type="password">
+
+                <label>*contact:</label>
+                <input type="tel"placeholder="81482*****">required
+
+                <label>*Email:</label>
+                <input type="email" >required
+
+                <label>*Age</label>
+                <input type="number">
+
+                <label>Gender:</label>
+
+                <input type="radio" name="gender" > male
+                <input type="radio" name="gender">female
+
+                <label>Nation:</label>
+                <input type="checkbox" name="nation">Indian
+                 <input type="checkbox" name="nation">Foreigner
+
+                 <label>city:</label>
+                 <select>
+                    <option>select your city</option>
+                    <option>pollachi</option>
+                    <option>udumalpet</option>
+                    <option>palani</option>
+                    <option>coimbatore</option>
+                    <option>chennai</option>
+
+
+                    </select>
+                    <label>website:</label>
+                    <input tyoe="urI">
+
+                    <label>stars:</label>
+                    <input type="range">
+
+                    <label>date:</label>
+                    <input type="date">
+
+                    <label>check In</label>
+                    <input type="time">
+
+
+
+                    <br>                    
+                    <br>
+                    <input type="submit" value="Register">
+
+                    <input type="file">
+
+                    <input type="color">
+
+
+
+
+
+                    </form>
+                    </main>
+
+
+                                
+                  
+                  
+
+                                    
+                
+
+
+            
+
+
+
+    
